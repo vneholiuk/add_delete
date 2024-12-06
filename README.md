@@ -13,7 +13,7 @@ This app allows users to add and delete tasks, providing a straightforward way t
 ## Live Demo
 
 You can view the live demo of this project here:  
-[React Todo App](https://vneholiuk.github.io/add_delete/)
+[DEMO LINK](https://vneholiuk.github.io/react_todo-app-add-and-delete/)
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ To run the project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vneholiuk/add_delete.git
+    git clone (https://vneholiuk.github.io/react_todo-app-add-and-delete/)
     ```
 2. Navigate into the project directory:
     ```bash
