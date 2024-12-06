@@ -1,9 +1,53 @@
-# React TypeScript Starter Pack
+# React Todo App - Add and Delete
 
-To use this template click `Use this template`
+**React Todo App** is a simple todo list application built with React. 
+This app allows users to add and delete tasks, providing a straightforward way to manage their daily activities.
 
-### Available Scripts
+## Features
 
-`Deploy` - available to deploy your application to gh-pages
+- Add new todo items.
+- Delete todo items.
+- Simple and intuitive user interface.
+- Built using React for a dynamic and interactive experience.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Live Demo
+
+You can view the live demo of this project here:  
+[React Todo App](https://vneholiuk.github.io/add_delete/)
+
+## Technologies Used
+
+- **React** for building the user interface.
+- **CSS** for styling the application.
+
+## Installation
+
+To run the project locally:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vneholiuk/add_delete.git
+    ```
+2. Navigate into the project directory:
+    ```bash
+    cd react_add_delete
+    ```
+3. Install the required dependencies:
+    ```bash
+    npm install
+    ```
+4. Run the application:
+    ```bash
+    npm start
+    ```
+5. Open `http://localhost:3000` in your web browser to see the app in action.
+
+## How It Works
+
+1. Users can add a new todo item by typing in the input field and clicking the **Add Todo** button.
+2. Each todo item has a **Delete** button that allows users to remove it from the list.
+3. The app uses React state to manage the list of todos, ensuring the UI updates dynamically when items are added or removed.
+
+## Contributing
+
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any suggestions or improvements are welcome!
